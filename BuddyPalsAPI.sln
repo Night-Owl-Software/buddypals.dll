@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuddyPalsAPI", "BuddyPalsAPI.csproj", "{ADB7F285-9D98-4084-9D03-3B1BA1E710D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB7F285-9D98-4084-9D03-3B1BA1E710D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB7F285-9D98-4084-9D03-3B1BA1E710D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB7F285-9D98-4084-9D03-3B1BA1E710D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB7F285-9D98-4084-9D03-3B1BA1E710D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96625CD5-774F-4C46-8D6E-B7CDB5986E7A}
+	EndGlobalSection
+EndGlobal
